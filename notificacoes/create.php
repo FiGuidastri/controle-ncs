@@ -56,7 +56,9 @@ include '../partials/header.php';
             <label>Descrição</label>
             <textarea name="descricao" class="form-control" required></textarea>
         </div>
+        <br>
         <button type="submit" class="btn btn-success">Salvar</button>
+        <button href="./index.php" class="btn btn-secondary ml-2">Voltar</button>
     </form>
 </div>
 <?php include '../partials/footer.php'; ?>

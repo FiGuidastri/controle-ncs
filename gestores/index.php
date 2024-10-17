@@ -38,5 +38,6 @@ include '../partials/header.php';
             <?php endforeach; ?>
         </tbody>
     </table>
+    <a href="../index.php" class="btn btn-secondary ml-2">Voltar</a>
 </div>
 <?php include '../partials/footer.php'; ?>

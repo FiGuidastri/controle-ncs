@@ -2,7 +2,7 @@
 $host = 'localhost';
 $dbname = 'controle_ncs';
 $username = 'root';
-$password = 'root';
+$password = 'asdqwe123!@#';
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="../css/bootstrap.min.css" rel="stylesheet">
-    <title>NCs</title>
+    <title>Regulatório</title>
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
