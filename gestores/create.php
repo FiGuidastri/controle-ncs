@@ -41,8 +41,10 @@ include '../partials/header.php';
                 <?php endforeach; ?>
             </select>
         </div>
+        <br>
         <button type="submit" class="btn btn-success">Salvar</button>
         <a href="./index.php" class="btn btn-secondary ml-2">Voltar</a> <!-- Botão Voltar -->
+        <br>
     </form>
 </div>
 <?php include '../partials/footer.php'; ?>

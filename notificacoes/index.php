@@ -40,8 +40,8 @@ include '../partials/header.php';
                     <td><?= $notificacao['data_final'] ?></td>
                     <td><?= $notificacao['descricao'] ?></td>
                     <td>
-                        <a href="update.php?id=<?= $notificacao['id'] ?>" class="btn btn-warning">Editar</a>
-                        <a href="delete.php?id=<?= $notificacao['id'] ?>" class="btn btn-danger" onclick="return confirm('Tem certeza?')">Excluir</a>
+                        <a href="./update.php?id=<?= $notificacao['id'] ?>" class="btn btn-warning">Editar</a>
+                        <a href="./delete.php?id=<?= $notificacao['id'] ?>" class="btn btn-danger" onclick="return confirm('Tem certeza?')">Excluir</a>
                     </td>
                 </tr>
             <?php endforeach; ?>
